@@ -1,6 +1,5 @@
 from pydantic import BaseModel, Field
 from typing import List, Annotated, Literal
-from fastapi import UploadFile
 
 
 class Extract(BaseModel):
