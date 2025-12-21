@@ -2,6 +2,8 @@
 
 FastAPI + Streamlit app to extract, query, and audit contract PDFs using LangChain, Chroma, and Google Gemini.
 
+https://www.loom.com/share/a76e8c096c3a4ec197f00bb6d6543d03
+
 ## Features
 - Upload PDF contracts and build a Chroma vector store.
 - Extract structured contract data via FastAPI.
